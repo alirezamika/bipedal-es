@@ -4,7 +4,9 @@ This AI agent uses Evolution Strategies and deep learning models to learn how to
 
 Read [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/) from OpenAI if you are interested.
 
-After a few hundred iterations, it can walk.
+After a few hundred iterations, he can walk! Or he may run ;)
+
+![demo](https://image.ibb.co/c2c9F5/ezgif_com_resize.gif)
 
 
 # Dependencies
